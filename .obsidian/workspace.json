@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4587ac5db19173d0",
+        "id": "8a75b6db35d13a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7edea6fbe69530",
+            "id": "55fb0121372133b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010100. Frontmatter/Introductory Material.md",
+                "file": "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/0201010102. Thinking Point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introductory Material"
+              "title": "0201010102. Thinking Point"
             }
           }
         ]
@@ -200,11 +200,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad7edea6fbe69530",
+  "active": "55fb0121372133b8",
   "lastOpenFiles": [
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/0201010101. Hardware.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/0201010102. Thinking Point.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010100. Frontmatter/Introductory Material.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/0201010103. Intended Learning Outcomes.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/03. Intended Learning Outcomes.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/02. Thinking Point.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/01. Hardware.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/03. Thinking Point.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/04. Intended Learning Outcomes.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010100. Frontmatter/Introductory Material.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/02. Hardware.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020100. Frontmatter/Introducing Serial Communication.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0200. Frontmatter/Get Practical with Hardware.md",
