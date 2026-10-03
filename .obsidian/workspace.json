@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q1.md",
-                "mode": "preview",
+                "file": "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0200. Frontmatter/Get Practical with Hardware.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IA1Q1"
+              "title": "Get Practical with Hardware"
             }
           }
         ]
@@ -190,20 +190,21 @@
   },
   "active": "1ae40c6ebee859b5",
   "lastOpenFiles": [
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/01. Course Welcome.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/02. Hardware.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/03. Thinking Point.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/04. Intended Learning Outcomes.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q3.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q2.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q1.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/0201010200. Frontmatter/Knowledge Check - Initial Assessment.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q5.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q4.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/0201010100. Frontmatter/Course Welcome.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0200. Frontmatter/Get Practical with Hardware.md",
     "Embedded Systems Essentials with Arm (ESEA)/00. Frontmatter/Embedded Systems Essentials with Arm (ESEA).md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020100. Frontmatter/Introducing Serial Communication.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010100. Frontmatter/Introductory Material.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/02. Hardware.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/0201010100. Frontmatter",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q1.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q2.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q5.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q4.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/IA1Q3.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/0201010200. Frontmatter/Knowledge Check - Initial Assessment.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/03. Thinking Point.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/04. Intended Learning Outcomes.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check/0201010200. Frontmatter",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010102. Knowledge Check",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes",
@@ -216,7 +217,6 @@
     "Embedded Systems Essentials with Arm (ESEA)/03. Get Practical with Hardware/0302. Introducing Serial Communication/030202. Introductory Material/03020203. Knowledge Check/0302020302. Questions",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020102. Knowledge Section/Assessments/KE4/KE4Q2.md",
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020102. Knowledge Section/Assessments/KE4",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020103. Skills/SV.md",
     "Welcome.md"
   ]
