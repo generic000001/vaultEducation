@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0200. Frontmatter/Get Practical with Hardware.md",
+                "file": "Embedded Systems Essentials with Arm (ESEA)/00. Frontmatter/Embedded Systems Essentials with Arm (ESEA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get Practical with Hardware"
+              "title": "Embedded Systems Essentials with Arm (ESEA)"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"platform\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded Systems Essentials with Arm (ESEA)/Get Practical with Hardware/Introducing Serial Communication/Introductory Material/00. Introductory Material.md",
+                "file": "Embedded Systems Essentials with Arm (ESEA)/00. Frontmatter/Embedded Systems Essentials with Arm (ESEA).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +169,25 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5b2a65a2be07da13",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Embedded Systems Essentials with Arm (ESEA)/00. Frontmatter/Embedded Systems Essentials with Arm (ESEA).md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +200,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ae40c6ebee859b5",
+  "active": "4e274d07c1c71757",
   "lastOpenFiles": [
-    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020100. Frontmatter/Introducing Serial Communication.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0200. Frontmatter/Get Practical with Hardware.md",
+    "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020100. Frontmatter/Introducing Serial Communication.md",
     "Embedded Systems Essentials with Arm (ESEA)/00. Frontmatter/Embedded Systems Essentials with Arm (ESEA).md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/02. Hardware.md",
     "Embedded Systems Essentials with Arm (ESEA)/02. Get Practical with Hardware/0201. Introducing Serial Communication/020101. Introductory Material/02010101. Notes/04. Intended Learning Outcomes.md",
