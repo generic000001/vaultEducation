@@ -1,6 +1,6 @@
 ---
 page_type: assessment
-assessment: "[[Knowledge Check]]"
+assessment: "[[Knowledge Check - Initial Assessment]]"
 question_number: 4
 ---
 ### Question
