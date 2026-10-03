@@ -7,8 +7,6 @@ module_number: "01"
 
 Welcome to **Introducing Serial Communication**. Explore synchronous SPI and asynchronous UART, compare their trade-offs, and consider how engineering requirements guide communication choices.
 
-Begin with the [[Introductory Material]] for the module welcome, learning outcomes, hardware information, and initial assessment.
-
 ## Overview
 
 Building on **Embedded Systems Essentials with Arm: Getting Started**, this module introduces serial communication through two widely used protocols:
