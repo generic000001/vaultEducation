@@ -10,7 +10,6 @@ course_number: "02"
 For learners with undergraduate-level engineering knowledge and basic C/C++ skills, this course provides hands-on experience with serial communication, RTOSs, microcontroller peripherals, and CMSIS APIs on the **ST Nucleo F401RE**.
 
 ---
-
 ## What the Course Covers
 
 ### 1. Serial Communication
@@ -36,7 +35,6 @@ Control these peripherals through the **CMSIS API**:
 Use **CMSIS-RTOS APIs** to build a music player on the **ST Nucleo F401RE**.
 
 ---
-
 ### I2C and SPI Terminology
 
 In the context of **I2C** and **SPI**, the course uses:
@@ -51,7 +49,6 @@ In the context of **I2C** and **SPI**, the course uses:
 The course therefore uses **Controller** and **Target**, with the related signal terminology **CITO** and **COTI**.
 
 ---
-
 ## Course Learning Journey
 
 ```text
