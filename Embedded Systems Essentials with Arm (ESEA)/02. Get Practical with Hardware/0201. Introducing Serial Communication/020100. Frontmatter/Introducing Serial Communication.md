@@ -3,10 +3,14 @@ course: "[[Get Practical with Hardware]]"
 page_type: module
 module_number: "01"
 ---
-We will kick-off this course with Module 1: Introducing Serial Communication. What is Serial Communication? How does it receive/transmit data? What types of serial communication are there? What are the features of synchronous/asynchronous serial links? 
+## Module 01 Introduction
 
-Watch this video to learn all about what awaits you in this Arm course.
-# Module 1: Serial Communication
+Welcome to Module 01: **Introducing Serial Communication**. This module introduces how data is transferred between a microcontroller and its peripherals, and how to choose an appropriate communication method for an engineering application.
+
+You will explore synchronous communication with SPI and asynchronous communication with UART, then compare their features and trade-offs.
+
+Begin with the [[Introductory Material]] for the module welcome, learning outcomes, hardware information, and initial assessment.
+## Module Overview
 
 ## Overview
 
